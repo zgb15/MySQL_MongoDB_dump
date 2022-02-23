@@ -1,7 +1,0 @@
-Buenas Carlos! Te escribo aquí unas aclaraciones sobre la práctica...
-- Funcionamiento: El programa coge los datos de la BBDD (todos a excepción del campo "descripción" que utilizamos para el buscador de la anterior práctica) y según obtenemos los registros, creamos los usuarios y los añadimos a una lista. Dicha lista la volcaremos en la tabla de MongoDB.
-- El buscador es el básico (uno que imprime todos los registros). 
-
-Enlace al vídeo con las pruebas realizadas: 
-https://drive.google.com/file/d/1gMERyXNnYhQ7adiNr2TMQnualIVrKHvm/view?usp=sharing
-Nota: El vídeo está grabado sobre otro vídeo para añadirle el audio.
